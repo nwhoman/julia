@@ -85,6 +85,10 @@ recommend you use the official Julia binaries instead.
 
 First, make sure you have all the [required
 dependencies](https://github.com/JuliaLang/julia/blob/master/doc/src/devdocs/build/build.md#required-build-tools-and-external-libraries) installed.
+
+For detailed instructions for a macOS install see:
+https://github.com/nwhoman/julia/blob/master/doc/src/devdocs/build/macOS%20install.md
+
 Then, acquire the source code by cloning the git repository:
 
     git clone https://github.com/JuliaLang/julia.git
